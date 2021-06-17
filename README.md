@@ -1,0 +1,1 @@
+This project is unfinished. I plan to work on it and add more rules as I get more statistics for each year. I currently have only implemented rules for the round of 64 but plan on adding rules to eventually generate an entire bracket.
