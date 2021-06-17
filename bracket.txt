@@ -1,0 +1,31 @@
+Number of Brackets: 1563108
+Odds this set contains a perfect bracket: 0.662574
+Number of Brackets: 319357
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 266864
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 266864
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 319357
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 319357
+Odds this set contains a perfect bracket: 0.400873
+Number of Brackets: 319357
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 319357
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 499901
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 482429
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 482429
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 455101
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 455101
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 374685
+Odds this set contains a perfect bracket: 0.378293
+Number of Brackets: 374685
+Number of Brackets: 341709
+Number of Brackets: 335796
